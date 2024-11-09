@@ -24,7 +24,8 @@ I'm passionate about exploring new tech trends and always up for a coding challe
 
 ---
 
-
+### 🌱 I’m currently learning Generative AI
+I'm diving deeper into Generative AI, exploring models for text, image, and code generation to enhance my projects with innovative AI capabilities.
 
 ---
 
@@ -44,15 +45,21 @@ Here’s a quick snapshot of the technologies I work with:
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 
 And many more, including:
-- **Frontend:** Ant Design, Tailwind CSS
+- **Frontend:** Ant Design, Tailwind CSS, Bootstrap, Scss
 - **Backend:** NestJS, Express, AWS Lambda
 - **Data & Visualization:** Cube.js, Chart.js, D3.js
 
 ---
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nomanabid123/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noman_abid_/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17328152/noman)
 
 ## Support
 
-If you like my work, feel free to support by starring this repo or connecting with me on [LinkedIn](https://www.linkedin.com/in/noman-abid).
+If you like my work, please support me by starring this repo or connecting with me on [LinkedIn](https://www.linkedin.com/in/nomanabid123/).
+
 
 ---
 
