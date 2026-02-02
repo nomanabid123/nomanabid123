@@ -17,7 +17,7 @@ All of my projects are available at [nomanabid.dev](https://nomanabid.dev)
 React, Node.js, Next.js, AWS Amplify, Cube.js, and data-driven UI/UX design.
 
 ### 📫 How to reach me
-Email: [nomanabid3557@example.com](mailto:nomanabid3557@example.com)
+Email: [nomanabid3557@gmail.com](mailto:nomanabid3557@gmail.com)
 
 ### ⚡ Fun fact
 I'm passionate about exploring new tech trends and always up for a coding challenge!
